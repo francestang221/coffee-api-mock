@@ -2,18 +2,44 @@
     "coffee": [
         {
             "id": 0,
-            "name": "Americano",
-            "price": 2.65
+            "name": "Caffe Latte",
+            "price": 3.65
         },
         {
             "id": 1,
-            "name": "Cappuccino",
-            "price": 2.95
+            "name": "Caffee Mocha",
+            "price": 4.15
         },
         {
             "id": 2,
-            "name": "Macchiato",
-            "price": 3.65
+            "name": "White Choclate Mocha",
+            "price": 4.45
+        },
+        {
+            "id": 3,
+            "name": "Freshly Brewed Coffee",
+            "price": 2.10
+        },
+        {
+            "id": 4,
+            "name": "Cinnamon Dolce Latte",
+            "price": 4.25
+        },
+        {
+            "id": 5,
+            "name": "Skinny Vanilla Latte",
+            "price": 4.15
+        },
+        {
+            "id": 6,
+            "name": "Caramel Macchiato",
+            "price": 4.45
+        },        
+        {
+            "id": 7,
+            "name": "Caramel Flan Latte",
+            "price": 4.55
         }
     ]
+
 }
