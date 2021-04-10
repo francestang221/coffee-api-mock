@@ -39,6 +39,66 @@
             "id": 7,
             "name": "Caramel Flan Latte",
             "price": 4.55
+        },
+        {
+            "id": 8,
+            "name": "Skinny Peppermint Mocha",
+            "price": 4.65
+        },
+        {
+            "id": 9,
+            "name": "Pumpkin Spice Latte(Limited Time)",
+            "price": 4.95
+        },
+        {
+            "id": 10,
+            "name": "Calted Caramel Mocha(Limited Time)",
+            "price": 4.95
+        },
+        {
+            "id": 11,
+            "name": "Toasted Graham Latte (Limited Time)",
+            "price": 4.95
+        },
+        {
+            "id": 12,
+            "name": "Iced Coffee(with or without Milk",
+            "price": 2.65
+        },
+        {
+            "id": 13,
+            "name": "Caramel Frappuccino",
+            "price": 4.45
+        },
+        {
+            "id": 14,
+            "name": "Mocha Frappuccino",
+            "price": 4.45
+        },
+        {
+            "id": 15,
+            "name": "Strawberries & Creme Frappuccino",
+            "price": 4.45
+        },
+        {
+            "id": 16,
+            "name": "Coffee Frappuccino",
+            "price": 3.95
+        },
+        {
+            "id": 17,
+            "name": "Vanilla Bean Creme Frappuccino",
+            "price": 3.95
+        },
+        {
+            "id": 18,
+            "name": "Iced Caramel Macchiato",
+            "price": 4.45
+        },
+        {
+            "id": 19,
+            "name": "Salted Caramel Mocha Frappuccino(Limited Time)",
+            "price": 4.95
         }
     ]
 
