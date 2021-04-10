@@ -47,17 +47,17 @@
         },
         {
             "id": 9,
-            "name": "Pumpkin Spice Latte(Seasonal)",
+            "name": "Pumpkin Spice Latte",
             "price": 4.95
         },
         {
             "id": 10,
-            "name": "Calted Caramel Mocha(Seasonal)",
+            "name": "Calted Caramel Mocha",
             "price": 4.95
         },
         {
             "id": 11,
-            "name": "Toasted Graham Latte (Seasonal)",
+            "name": "Toasted Graham Latte ",
             "price": 4.95
         },
         {
@@ -97,7 +97,7 @@
         },
         {
             "id": 19,
-            "name": "Salted Caramel Mocha Frappuccino(Seasonal)",
+            "name": "Salted Caramel Mocha Frappuccino",
             "price": 4.95
         }
     ]
